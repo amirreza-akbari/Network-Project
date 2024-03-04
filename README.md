@@ -1,5 +1,6 @@
 <html>
   <head>
+    <meata charset="UT-8" />
     <style>
         .img-02 {
            border-radius: 30px;
