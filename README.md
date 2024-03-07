@@ -6,7 +6,7 @@
     <div>
       <h4>The project of two separate networks with a server:</h4>
       <h3>set🕛</h3>
-    <img src="pic/02.png" alt="" />
+    <img src="pic/02.png" alt="0" />
     </div>
   </body>
 </html>
